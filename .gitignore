@@ -42,5 +42,6 @@
 *.tlog
 *.lastbuildstate
 *.suo
-x64
-Debug
+*.user
+bin
+temp
